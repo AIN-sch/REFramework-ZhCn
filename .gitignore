@@ -1,0 +1,10 @@
+build/
+dependencies/
+*.pch
+*.obj
+*.lib
+*.pdb
+*.ilk
+*.i64
+*.idb
+dinput8.dll

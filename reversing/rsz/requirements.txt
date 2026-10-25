@@ -1,0 +1,5 @@
+fire
+numpy
+unicorn==2.1.4
+capstone
+pefile

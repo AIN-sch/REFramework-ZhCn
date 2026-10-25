@@ -1,0 +1,9 @@
+#pragma once 
+#define REF_COMMIT_HASH "d4611aef1d63effd3a736bdf9404ea702428017d" 
+#define REF_TAG "no_tag" 
+#define REF_TAG_LONG "" 
+#define REF_COMMITS_PAST_TAG 0 
+#define REF_BRANCH "master" 
+#define REF_TOTAL_COMMITS 1 
+#define REF_BUILD_DATE "22.10.2026" 
+#define REF_BUILD_TIME "02:56" 
