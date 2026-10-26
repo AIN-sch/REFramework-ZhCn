@@ -1,5 +1,4 @@
 build/
-dependencies/
 *.pch
 *.obj
 *.lib
